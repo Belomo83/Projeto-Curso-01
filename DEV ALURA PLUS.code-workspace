@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Prog IARA/DEV ALURA PLUS"
+		},
+		{
+			"path": "../../Prog/BELOMO DEV ALURA plus"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../BELOMO DEV ALURA plus"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BELOMO DEV ALURA plus"
+	}
+}
